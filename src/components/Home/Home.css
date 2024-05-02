@@ -1,0 +1,14 @@
+.home-image {
+    max-width: inherit;
+    max-height: inherit;
+    height: inherit;
+    width: inherit;
+    object-fit:cover;
+}
+
+.text-on-image {
+    position: absolute;
+    right: 50%;
+    left: 50%;
+    bottom: 15%;
+  }
